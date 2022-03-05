@@ -1,2 +1,5 @@
 # you-no-longer-have-internet
-a tool to make it so you can never ever ever write into /etc/hosts
+
+this only works on linux afaik, no idea if BSD has inotify
+
+a tool to make it so you can never ever ever write into /etc/hosts to stop you from actually using certain websites
